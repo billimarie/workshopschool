@@ -4,12 +4,17 @@
 ## Attendance
 Please sign into the attendance sheet here: [The Workshop School - Attendance](https://gist.github.com/billimarie/29caf195a1b5dc2d20a324da6f9e1c51)
 
+---
+
 ## April 5th 2018
+
 ### Required
 #### 1. Go to FILE > NEW FILE
 #### 2. Create a new file: `about.html`
 #### 3. Type out the HTML structure. Use `index.html` as a guide. (Reminder: don't forget the `<head>` and `<body>` tags)
 #### 4. Link your stylesheet (`styles.css`) in your `<head>`. Use `index.html` as a guide. 
+
+---
 
 ### Optional: Create a navigation system
 #### 1. Read about website navigation systems. There are three different ways to create a navigation:
@@ -26,3 +31,5 @@ Please sign into the attendance sheet here: [The Workshop School - Attendance](h
   - Give your `<nav>` a background color
   - Give your links (`<a>`) a color
   - Give your links a hover color (`a:hover`)
+
+<img src="https://media.giphy.com/media/xTiN0uId37jNZCMLSM/giphy.gif" />
